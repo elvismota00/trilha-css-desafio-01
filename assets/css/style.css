@@ -74,3 +74,29 @@ section {
     height: 100%;
     object-fit: contain;
 }
+
+.banner .banner-content button {
+    color: #33A8DB;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 16px 18px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    background-color: transparent;
+    border: 2px solid #1572B7;
+    border-radius: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
